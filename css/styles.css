@@ -1,0 +1,13 @@
+:root {
+  --font-family: "DM Sans", sans-serif, "Titan One", cursive;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  font-family: var(--font-family);
+  max-width: 375px;
+}
